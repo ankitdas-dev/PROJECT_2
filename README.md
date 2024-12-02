@@ -1,3 +1,3 @@
 # New Project
-this was created
+This was created
 by Ankit Das.
